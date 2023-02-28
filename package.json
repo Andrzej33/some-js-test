@@ -1,15 +1,15 @@
 {
-  "name": "goit-js-hw-09",
+  "name": "some-js-test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://andrzej33.github.io/goit-js-hw-09/",
+  "homepage": "https://andrzej33.github.io/some-js-test/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+    "build": "parcel build src/*.html --public-url /some-js-test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andrzej33/goit-js-hw-09"
+    "url": "git+https://github.com/Andrzej33/some-js-test"
   },
   "keywords": [],
   "author": "Andrii Vasylkiv <andrijvasilkiv7@gmail.com>",
